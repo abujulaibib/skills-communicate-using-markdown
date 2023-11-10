@@ -7,3 +7,8 @@
 #### This one \<h4>. I know you get the pattern now
 
 It can also be moted that H1 and H2 come with default separation horizontal line
+
+Ok so now lets image
+
+![My profile picture](https://github.com/abujulaibib/skills-communicate-using-markdown/assets/99358822/db32d3fc-8951-4876-9f0e-b4e133a5b511)
+
